@@ -96,6 +96,11 @@ Die Squads dürfen anderssprachig sein.
  * Admins sind angehalten darauf zu achten, dass die Spielbalance gehalten wird
  * Auf Clans oder gute SLs der übermächtigen Seite vor Rundenende zugehen und um Balance bitten (Also Balance mit Absprache)
 
+== Sonstiges
+
+* MG/HAT 1x pro squad -> nichts machen, wenn sich keiner beschwert
+* 5 € in Serverkasse wer ChangeMap anstatt SetNextMap macht
+
 == Trigger
 
 !stream::
