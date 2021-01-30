@@ -1,0 +1,86 @@
+= Admin Guideline
+Squadtopia <squadtopia@open-email.de>
+0.1, 2021-01-30
+:toc: left
+:icons: font
+:doctype: article
+:docinfo: shared
+
+Der Admin-Guide soll helfen ein konsistentes durchgreifen der Admins auf dem Server zu regeln um Willkür zu vermeiden.
+Um dies zu erreichen sind die nachfolgenden Informationen zu berücksichtigen.
+
+== Servervision
+
+TODO ADD Servervision
+
+== Grundlagen
+
+Die Admins sind in erster Linie dafür verantwortlich, dass die bestmögliche Spielerfahrung im Rahmen der Servervision geschaffen wird. Deshalb sollten bei Adminentscheidungen immer folgende Punkte berücksichtigt werden:
+
+ * Trägt die Entscheidung dazu bei, dass sich die Spielqualität im Sinne der Servervision verbessert/verbessern kann.
+   (Einen Spieler wegen einem formalen Regelverstoß zu kicken trägt eventuell nicht immer zu diesem Ziel bei)
+ * Wenn der Admin nicht über das nötige Wissen verfügt, um eine Situation zu beurteilen oder Unsicherheit besteht, sollte er einen anderen Admin hinzuziehen
+ * Admins sollen *NICHT* jede einzelne taktische Entscheidung der SLs beurteilen, sondern nur grobes Fehlverhalten bestrafen
+   (Superfob am Arsch der Welt, offen erkennbarer Mangel an grundlegenden Fähigkeiten etc.)
+
+== Ticket-Wasting
+
+* unnötiges Spawnen an verlorenen Objectives usw.
+* verlieren von Fahrzeugen durch fehlendes Grundlagenwissen oder das ignorieren von Informationen
+* Taktisch sinnvolles Opfern von Fahrzeugen IST ERLAUBT, falls das entsprechende Ziel nicht anders erreicht werden kann,
+  z.b. das Rammen eines vollbesetzten feindlichen Helis, der auf der unverteidigten Defense landen will, aggressives Pushen in Feinde um z.b. einen Hotdrop zu machen/eine Fob zu setzen.
+
+
+== Fahrzeug-Claiming
+
+* nach dem Respawn des Fahrzeuges hat das ursprüngliche Squad Vorrecht (-> MBT Squad 1 wartet auf MBT1 respawn, MBT Squad 2 wartet auf MBT2 Respawn)
+* die Regel soll nicht dazu führen, dass Fahrzeuge nicht besetzt werden können, d.h., wenn ein geclaimtes Fahrzeug nicht umgehend besetzt wird, verliert das Squad das Recht auf die Nutzung
+  (z.b. MBT Squad 1 im BTR auf der anderen Mapseite ist und MBT Squad 2 schon in der Main wartet, MBT Squad 1 nicht genug Leute hat usw.)
+
+== Grundlegende SL-Fähigkeiten
+
+* SLs arbeiten aktiv mit dem Team einen Plan aus und leiten relevante Informationen weiter
+* SLs kennen die Bezeichnung und Fähigkeiten aller relevanten Fahrzeuge, Klassen, etc.
+* SLs kennen die FOB-und Respawn-Mechaniken
+* SLs kennen die Cap-Mechanik
+* SLs mit weniger Erfahrung kompensieren dies durch Absprache mit den anderen SLs
+* Infanterie-SLs führen ihr Squad als Infanterist, nicht als Fahrzeugbesatzung (wegen Rally, Situational Awareness usw.)
+* SLs sorgen dafür, dass jeder Spieler im Squad kommuniziert, sich aktiv einbringt und nur Aufgaben übernimmt, die er auch erfüllen kann
+* SLs sind in der Lage die taktische Situation einzuschätzen und entsprechend zu handeln
+  (Neben meinem Squad erscheint eine Flagge -> Ich cappe und verteidige falls nötig,  Mein Squad kämpft alleine ohne FOB auf der Defense gegen 2 feindliche Squads -> Ich rufe Hilfe etc.)
+
+
+== Fremdwerbung
+
+* Als Fremdwerbung wird Werbung betrachtet, die unserer Squad-Community bzw. Server-Community schadet (Werbung für andere Server ect.)
+* Nicknames wie SgtSnickers, .zip, Name+Twitchlink sind ok
+
+== Namen
+
+TODO welche Namen sind erlaubt
+
+== Sprache
+
+TODO wie gehen wir mit Sprachverstößen usw. um
+
+== Links
+
+Github::
+Änderungen an diesem Dokument können in unserem Github Repository vorgenommen werden: +
+Link: link:https://github.com/squadtopia/[icon:github[4x]]
+
+BattleMetrics::
+Muss zur Administration verwendet werden.
+Nur in Notfällen ingame Console verwenden.
+Link: https://battlemetrics.com
+
+Portainer::
+Erlaubt das Neustarten von Diensten, unter anderem den Discord Bot und den Squad-Server.
+Link: https://portainer.squadtopia.de (Neustarten von Server und anderen Diensten)
+
+NOTE: Das Neustarten über Portainer geht an systemd vorbei und kann zu Problemen führen.
+Sollte also nur in Notfällen benutzt werden, wenn z.B. kein SSH-Zugriff möglich ist
+
+Grafana Dashboard::
+Gibt einen Übersicht über den Zustand des Servers, wie CPU-Auslastung, Netzwerktraffic, RAM-Auslastung, usw.
+Link: http://stats.labmonkeys.space/
