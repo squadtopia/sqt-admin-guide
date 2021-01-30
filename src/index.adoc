@@ -22,7 +22,7 @@ Die Admins sind in erster Linie dafür verantwortlich, dass die bestmögliche Sp
  * Wenn der Admin nicht über das nötige Wissen verfügt, um eine Situation zu beurteilen oder Unsicherheit besteht, sollte er einen anderen Admin hinzuziehen
  * Admins sollen *NICHT* jede einzelne taktische Entscheidung der SLs beurteilen, sondern nur grobes Fehlverhalten bestrafen
    (Superfob am Arsch der Welt, offen erkennbarer Mangel an grundlegenden Fähigkeiten etc.)
-
+ * Alle Admins sollten in der Lage sein, das Serverkonzept außenstehenden zu erläutern und den Sinn der Spielregeln zu erklären
 == Ticket-Wasting
 
 * unnötiges Spawnen an verlorenen Objectives usw.
