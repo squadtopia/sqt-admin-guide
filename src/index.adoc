@@ -5,6 +5,7 @@ Squadtopia <squadtopia@open-email.de>
 :icons: font
 :doctype: article
 :docinfo: shared
+:favicon:
 
 Der Admin-Guide soll helfen ein konsistentes durchgreifen der Admins auf dem Server zu regeln um Willkür zu vermeiden.
 Um dies zu erreichen sind die nachfolgenden Informationen zu berücksichtigen.
