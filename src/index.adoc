@@ -11,7 +11,17 @@ Um dies zu erreichen sind die nachfolgenden Informationen zu berücksichtigen.
 
 == Servervision
 
-TODO ADD Servervision
+Phase 1
+Ziel ist es einen Server zu schaffen, der durchgehend ein spielbares Niveau hat:
+Jeder SL kommuniziert
+Jeder SL spielt objective mit seinem Squad
+Niemand wasted Fahrzeuge unnötig
+
+Phase 2
+Ziel ist es einen Server zu schaffen, der durchgehend ein experienced Niveau hat:
+Alles von Phase 1
+Durchgehend ein höheres Niveau nicht nur bei den SLs
+… TBA
 
 == Grundlagen
 
@@ -22,6 +32,7 @@ Die Admins sind in erster Linie dafür verantwortlich, dass die bestmögliche Sp
  * Wenn der Admin nicht über das nötige Wissen verfügt, um eine Situation zu beurteilen oder Unsicherheit besteht, sollte er einen anderen Admin hinzuziehen
  * Admins sollen *NICHT* jede einzelne taktische Entscheidung der SLs beurteilen, sondern nur grobes Fehlverhalten bestrafen
    (Superfob am Arsch der Welt, offen erkennbarer Mangel an grundlegenden Fähigkeiten etc.)
+ * Alle Admins sollten in der Lage sein, die Servervision Außenstehenden zu erläutern und den Sinn der Spielregeln zu erklären
 
 == Ticket-Wasting
 
