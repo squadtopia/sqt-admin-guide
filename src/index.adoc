@@ -101,6 +101,16 @@ Die Squads dürfen anderssprachig sein.
  * Admins sind angehalten darauf zu achten, dass die Spielbalance gehalten wird
  * Auf Clans oder gute SLs der übermächtigen Seite vor Rundenende zugehen und um Balance bitten (Also Balance mit Absprache)
 
+=== Platzierung des Radio
+* Radio muss abschaufelbar sein, muss aber nicht leicht zugänglich sein
+* Kein Placement: im Wasser, außerhalb der Map, usw.
+
+=== Minen Placement um Mainbase / Mainbasecamping
+* Aktives Bespielen/Bekämpfen der Mainbase nicht gestattet
+* Minen dürfen außerhalb eines 300m Radius um die Mainbase gelegt werden.
+* Ausnahme: wenn eine aktive Flagge innerhalb dieses 300m Radius fällt (z.B. Radiotower auf Narva)
+
+
 === Sonstiges
 
 * MG/HAT 1x pro squad -> nichts machen, wenn sich keiner beschwert

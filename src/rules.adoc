@@ -13,6 +13,7 @@ Diskriminierung, Verletzung der persönlichen Ehre usw.) sind verboten
 * Nicknames müssen problemlos aussprechbar sein
 * Bei Teamkills sollte man sich im Chat entschuldigen
 * Spieler mit hohem Ping (>100) werden entfernt
+* Minen müssen mindestens 300m von der Mainbase entfernt platziert werden.
 
 === Kommunikation
 * Jeder SL muss aktiv in der Serversprache (Deutsch) kommunizieren
@@ -47,7 +48,7 @@ werden
 je Seite gesetzt (im Fall einer doppelten Mittel Flagge wird um beide
 Mittel Flaggen gekämpft)
 * Das Angreifen von Radios oder HABs ist verboten
-* Offensive Emplacements, C4, Minen, AT/RPG und bewaffnete Fahrzeuge sind
+* Offensive Emplacements, C4, Minen, AT/RPG/GL und bewaffnete Fahrzeuge sind
 während des Seedings nicht zu verwenden.
 * HABs müssen außerhalb eines 150m Radius um die bespielbare Flagge
 errichtet werden oder im Falle einer kleinen Seedingmap auf der
